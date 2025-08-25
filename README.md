@@ -17,7 +17,7 @@
 
 
 
-  ##### Languages
+  #### Languages
 <!-- C++ -->
 <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" height="40" alt="Cpp Logo"/>
 <!-- C# -->
@@ -27,7 +27,7 @@
 
 
   
-  ##### Editors 
+  #### Editors 
 <!-- UE5 -->
 <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" alt="UnrealEngine" title="UnrealEngine" height="40" alt="UnrealEngine logo"/>
 <!-- VisualStudioCode -->
@@ -37,12 +37,12 @@
 
 
 
-  ##### Management
+  #### Management
 <p align="left"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" title="github" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" title="jira" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="trello" title="trello" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apex/apex-original.svg" alt="Apex" title="Apex" width="40" height="40"/>
 </p>
        
-  ##### Web Development
+  #### Web Development
 <!-- HTML5 -->
 <div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" title="html5" height="40" alt="html5 logo"  />
 <!-- Wix -->
