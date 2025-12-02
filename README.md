@@ -11,6 +11,7 @@
 - I operate as a generalist gameplay programmer, which includes Gameplay Mechanics, AI, Physics, Animations, Audio and more.
 - I'm currently a 3rd Year Student at University studying Games Development, working towards a Bachleors of Science with Honours.
 - Happy to collaborate on Game Jams but I do prioritise personal projects.
+- I am a problem-solver at heart.
 
 <!-- Languages and Tools Section -->
 <h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
