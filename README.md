@@ -62,7 +62,7 @@
 ###
 
 
-- 🕹 Feel free to discuss: **My Games | Game Engines | Source Control.**
+- 🕹 Feel free to discuss: **My Games | Game Engines | Source Control | Opportunities**
 - 🎮 Don't be afraid to contact me, I love making new friends in the gaming world.
 - 🖥 At the moment I am an indie games' developer alongside university student.
 - 🖱 Outside of games' development I have experience in Web Development, Marketting and Outreach.
